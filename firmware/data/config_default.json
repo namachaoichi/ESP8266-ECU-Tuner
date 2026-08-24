@@ -1,0 +1,19 @@
+{
+  "cylinders": 4,
+  "ignition_type": 1,
+  "fuel_type": 1,
+  "adv_min": -5,
+  "adv_max": 40,
+  "dwell_max": 5,
+  "pw_min": 1000,
+  "pw_max": 25000,
+  "dead_time": 1.0,
+  "map_min": 10,
+  "map_max": 200,
+  "tps_min": 0,
+  "tps_max": 100,
+  "clt_min": -40,
+  "clt_max": 120,
+  "rev_limit_rpm": 7000,
+  "fuel_cut_rpm": 6900
+}
